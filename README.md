@@ -1,19 +1,7 @@
 # Tinder-Mbti-Research
+此项目用于探究MBTI和Tinder相约跑步的探究，后续会增加数据支撑和调研，期待您的关注。
 
 Thought Catalog大规模调查数据
-ENTP	13%积极参与,66%部分接受	6.83
-ESTP	高参与度(寻求刺激型)	7.0+
-ENTJ	3%积极参与,60%部分接受	7.02
-INTJ	2%积极参与,48%部分接受	6.5
-INFP	低参与度(需情感连接)	6.0
-ISFJ	低参与度(偏好承诺关系)	5.8
-来源:[Thought Catalog Survey](https://thoughtcatalog.com/heidi-priebe/2016/08/mbti-sexuality/)
-
-
-Thought Catalog大规模调查数据,,
-
-
-
 ENTP,13%积极参与,66%部分接受,6.83
 
 ESTP,高参与度(寻求刺激型),7.0+
@@ -26,11 +14,7 @@ INFP,低参与度(需情感连接),6.0
 
 ISFJ,低参与度(偏好承诺关系),5.8
 
-
-
-来源:Thought Catalog Survey,,
-
-
+来源:[Thought Catalog Survey](https://thoughtcatalog.com/heidi-priebe/2016/08/mbti-sexuality/)
 
 外向性 (E)正相关 - 外向者更可能为约跑使用Tinder PMC3613286
 
@@ -42,7 +26,12 @@ ISFJ,低参与度(偏好承诺关系),5.8
 
 开放性 (O)无显著相关多项研究
 
+#节选评论
 
+ENTP型人格与约会文化
+当被问及他们对“约会文化”的看法时：
+
+26%的参与者选择“我不喜欢它，很少/从不参与”。66%的参与者选择“我喜欢它的某些方面，但不喜欢其他方面”。13%的参与者选择“我非常喜欢它，几乎只寻找一夜情”。
 
 ENTP评论：
 
@@ -114,7 +103,8 @@ INTJ评论：
 
 
 
-学术研究论文（含数据集）
+#学术研究论文（含数据集）
+
 核心综述论文
 
 Sexual Hookup Culture: A Review (PMC)
